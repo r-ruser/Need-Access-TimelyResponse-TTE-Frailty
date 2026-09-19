@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/24568d8d-9177-42d0-abb9-a5d9c399450a" />
+
 # Need → Access → Timely Response → Health Outcome
 
 Reproducible R code for the v6 policy-process and target trial emulation analyses using HRS and CLHLS derived person-trial inputs.
