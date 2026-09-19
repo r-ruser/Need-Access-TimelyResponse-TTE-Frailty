@@ -9,7 +9,8 @@ required_tables <- c(
 required_figure_stems <- c(
   "Figure_construct_decomposition", "Figure_need_components",
   "Figure_need_access_heatmap", "Figure_access_response",
-  "Figure_policy_coverage", "Figure_cross_cohort_transportability"
+  "Figure_policy_coverage", "Figure_cross_cohort_transportability",
+  "Figure_inclusion_exclusion_flow"
 )
 required_figures <- as.vector(outer(required_figure_stems, c("svg", "pdf", "tiff", "png"), paste, sep = "."))
 

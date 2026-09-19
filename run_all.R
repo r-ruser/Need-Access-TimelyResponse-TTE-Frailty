@@ -15,6 +15,7 @@ scripts <- c(
   "04_access_stratified_tte.R",
   "05_transport_policy_health.R",
   "06_figures.R",
+  "08_inclusion_exclusion_flow.R",
   "07_validate.R"
 )
 
