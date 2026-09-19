@@ -1,0 +1,26 @@
+# Raw and derived participant-level data
+data/
+outputs/
+output/
+*.rds
+*.RData
+*.rda
+*.dta
+*.sav
+*.sas7bdat
+
+# Local analysis products and logs
+analysis_v*/
+logs/
+*.log
+
+# R and operating-system state
+.Rhistory
+.Rproj.user/
+.Ruserdata
+.DS_Store
+Thumbs.db
+
+# Local environment files
+.env
+*.local
